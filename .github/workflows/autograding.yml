@@ -1,0 +1,70 @@
+name: Autograding
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: autograding-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  part-tests:
+    name: ${{ matrix.part.name }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        part:
+          - { name: "Part 1 - Python Foundations", file: "tests/test_part1_python_foundations.py" }
+          - { name: "Part 2 - NumPy", file: "tests/test_part2_numpy.py" }
+          - { name: "Part 3 - Pandas Analysis", file: "tests/test_part3_pandas_analysis.py" }
+          - { name: "Part 4 - Data Cleaning", file: "tests/test_part4_data_cleaning.py" }
+          - { name: "Part 5 - EDA & Visualisation", file: "tests/test_part5_eda_visualization.py" }
+          - { name: "Part 6 - Machine Learning", file: "tests/test_part6_machine_learning.py" }
+          - { name: "Part 7 - Report", file: "tests/test_part7_report.py" }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run tests
+        run: python -m pytest ${{ matrix.part.file }} -v
+
+  grade:
+    name: Total score
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Grade
+        run: python .github/scripts/grade.py
+      - name: Generate charts (Part 5)
+        if: always()
+        continue-on-error: true
+        run: python -m assignment.part5_eda_visualization
+      - name: Upload results and charts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: grading-results
+          path: |
+            grading_results.json
+            outputs/*.png
+            outputs/*.csv
+          if-no-files-found: ignore

@@ -1,0 +1,127 @@
+EmployeeID,Name,Age,City,Department,Education,YearsExperience,MonthlySalary,PerformanceScore,JoinDate
+1043,John Appiah,,Kumasi,Finance,MSc,1,5501.47,75.0,2013-03-01
+1106,Daniel Agyeman,29.0,Accra, marketing,BSc,7,4935.02,68.0,2011-02-14
+1006,Kofi Agyeman,-4.0,Takoradi,HR,BSc,17,5936.99,65.0,2021-05-13
+1036,Akosua Mensah,46.0,Kumasi,Engineering,MSc,18,8186.81,76.1,2010-05-14
+1078,Kojo Darko,,Cape Coast,Engineering,BSc,13,6718.83,-10.0,2020-07-19
+1026,Kwesi Owusu,41.0,Takoradi,Marketing,BSc,14,5195.59,71.7,2016-05-18
+1009,John Asante,39.0,Kumasi,Engineering,BSc,14,7573.16,80.0,2015-05-16
+1059,Akosua Addo,52.0,,Sales,BSc,24,6331.78,,2020-10-27
+1018,Sarah Agyeman,32.0,Takoradi,Marketing,BSc,3,4264.11,75.1,2021-02-04
+1007,Adwoa Boateng,51.0,Takoradi,HR,BSc,24,6509.98,88.3,2016-06-25
+1024,Yaw Appiah,47.0,Kumasi,Finance,MSc,20,8203.18,68.4,2014-07-22
+1115,Kwesi Ofori,36.0,Tamale,Sales,BSc,13,5268.95,68.2,2016-10-30
+1072,Linda Mensah,44.0,Cape Coast,HR,MSc,19,6826.31,53.7,2021-10-11
+1046,Sarah Appiah,49.0,Accra,Sales,BSc,21,6436.2,69.6,2012-07-11
+1016,Ama Agyeman,32.0,Accra,Marketing,MSc,3,4490.03,98.9,2017-03-03
+1102,kwame appiah,34.0,Takoradi,Marketing,MSc,11,87000.0,60.9,2013-09-26
+1035,Yaw Darko,48.0,Cape Coast,Sales,MSc,19,6625.44,60.1,2014-12-14
+1058,Daniel Ofori,31.0,Takoradi,Finance,BSc,5,5201.46,79.6,2010-07-22
+1051,Adwoa Addo,48.0,Cape Coast,Marketing,MSc,23,,96.2,2021-07-30
+1068,Fiifi Asante,28.0,Takoradi,Sales,MSc,5,4903.15,72.0,2016-03-21
+1095,kwame appiah,29.0,Cape Coast,Finance,BSc,1,4616.05,76.6,2019-10-23
+1090,Linda Darko,,Takoradi,HR,MSc,22,7046.02,67.5,2019-04-16
+1096,Mary Osei,31.0, kumasi,Engineering,BSc,3,5600.19,80.2,2010-06-26
+1112,Ama Addo,31.0,Cape Coast,Finance,BSc,8,5947.15,68.0,2010-12-17
+1118,Efua Osei,43.0,Kumasi,HR,MSc,18,6266.16,99.4,2014-04-02
+1116,Esi Owusu,29.0,Takoradi,HR,BSc,7,4438.15,95.8,2016-05-12
+1081,Kofi Boateng,24.0,Kumasi,HR,BSc,1,3243.48,64.7,2018-10-11
+1005,Daniel Osei,44.0, tamale,HR,MSc,20,7045.32,66.3,2011-05-01
+1013,Yaw Owusu,36.0,Accra,Sales,,14,6578.53,145.0,2023-04-10
+1098,grace asante,39.0,Cape Coast,Finance,BSc,11,6230.64,88.1,2018-09-14
+1077,Daniel Osei,34.0,,HR,MSc,6,4343.83,88.7,2021-04-12
+1089,Sarah Boateng,26.0,Kumasi,HR,MSc,2,3676.93,70.2,2021-09-10
+1084,Akosua Boateng,31.0,Kumasi,HR,,6,4182.26,73.1,2016-01-16
+1062,Sarah Addo,29.0,Kumasi,Engineering,BSc,3,4956.75,74.1,2017-11-16
+1092,John Addo,38.0,Tamale,Finance,MSc,10,7097.92,,2011-01-23
+1054,Kojo Appiah,27.0,Cape Coast,Marketing,BSc,5,4566.68,83.5,2011-09-08
+1010,  FIIFI OSEI ,42.0,Tamale,Marketing,MSc,15,6700.91,65.0,2016-01-11
+1060,Linda Agyeman,46.0,Cape Coast,HR,MSc,19,7275.06,,2020-01-27
+1093,Fiifi Owusu,28.0,Kumasi,Engineering,BSc,6,6258.81,76.3,2019-11-22
+1111,John Agyeman,,Cape Coast,Sales,BSc,15,5162.42,69.7,2019-08-21
+1104,Kwame Ofori,42.0,Tamale,Marketing,MSc,14,6525.29,90.4,2017-02-21
+1028,Mary Ofori,31.0,Cape Coast,HR,MSc,2,4286.48,,2017-03-01
+1048,Linda Osei,38.0,Takoradi,Sales,BSc,13,4706.38,82.5,2015-03-23
+1114,Daniel Appiah,40.0,Cape Coast,HR,MSc,18,6217.24,73.0,2020-09-11
+1109,Adwoa Darko,50.0,Takoradi,HR,BSc,22,6984.8,69.2,2015-08-23
+1041,Linda Owusu,230.0,Kumasi,Sales,PhD,16,7086.28,78.1,2016-08-23
+1105,Fiifi Appiah,43.0,Tamale,Sales,BSc,18,6080.61,52.2,2020-04-16
+1037,John Boateng,27.0,Kumasi,Marketing,PhD,4,5764.2,54.6,2023-08-05
+1087,Adwoa Owusu,36.0,Cape Coast,Finance,BSc,11,,76.6,2018-05-07
+1100,Mary Boateng,32.0,Accra,HR,BSc,5,3886.52,84.5,2021-10-09
+1117,Efua Addo,46.0,Takoradi,Engineering,BSc,18,,,2012-12-09
+1083,Kojo Osei,47.0,Takoradi,HR,MSc,19,6630.5,71.9,2010-10-01
+1053,  ABENA OSEI ,42.0,Cape Coast,Sales,PhD,18,7403.73,95.4,2010-11-06
+1069,Sarah Appiah,30.0,Takoradi,Marketing,MSc,2,4492.73,62.6,2015-01-09
+1086,Kofi Osei,29.0,Accra,HR,BSc,4,4057.29,66.7,2013-09-10
+1031,Fiifi Agyeman,44.0,Takoradi,Marketing,MSc,21,7367.75,57.0,2020-06-04
+1071,Efua Osei,24.0,Cape Coast,Finance,BSc,1,5133.39,71.5,2015-02-26
+1014,Grace Addo,39.0,Takoradi,Sales,BSc,14,5766.45,71.7,2010-07-10
+1032,Fiifi Asante,28.0,Accra,Engineering,PhD,0,7193.78,51.7,2010-09-11
+1066,Efua Mensah,44.0,Cape Coast, marketing,MSc,18,6599.3,76.0,2017-09-14
+1056,Yaw Ofori,39.0,Cape Coast, finance,BSc,12,6366.41,94.5,2020-10-29
+1012,David Mensah,39.0,Takoradi,Marketing,MSc,16,7075.76,67.6,2022-05-17
+1076,Kwesi Agyeman,39.0,Tamale,Sales,MSc,17,5843.95,56.0,2016-10-08
+1051,Adwoa Addo,48.0,Cape Coast,Marketing,MSc,23,,96.2,2021-07-30
+1101,Kojo Boateng,41.0,Kumasi,Engineering,BSc,15,7861.58,85.2,2019-09-03
+1033,Linda Asante,27.0,Kumasi,Sales,MSc,3,4585.89,46.7,2015-12-18
+1017,John Asante,30.0,Tamale,Marketing,MSc,1,,69.5,2020-10-20
+1111,John Agyeman,,Cape Coast,Sales,BSc,15,5162.42,69.7,2019-08-21
+1088,Sarah Boateng,49.0, cape coast,Marketing,BSc,22,7182.69,78.5,2018-03-21
+1047,Fiifi Appiah,,Tamale,Finance,BSc,8,,64.4,2014-09-08
+1074,Yaw Darko,32.0,Kumasi,Engineering,PhD,7,7003.09,50.0,2016-02-15
+1004,Daniel Osei,28.0,TAMALE  ,HR,MSc,5,4858.51,69.8,2010-06-28
+1065,adwoa appiah,30.0,Cape Coast,Sales,MSc,3,4179.82,64.2,2016-07-04
+1085,Kwesi Owusu,48.0,Cape Coast,Sales,BSc,20,6050.56,68.8,2010-03-09
+1099,Kofi Asante,34.0,Accra, finance,MSc,12,6925.59,81.4,2017-09-06
+1019,Linda Osei,46.0,Takoradi,HR,BSc,21,,70.6,2011-03-14
+1065,adwoa appiah,30.0,Cape Coast,Sales,MSc,3,4179.82,64.2,2016-07-04
+1120,Mary Ofori,34.0,Kumasi,HR,PhD,11,6178.89,65.8,2011-10-07
+1055,Fiifi Ofori,43.0,Kumasi,Marketing,BSc,15,6166.91,74.6,2020-08-26
+1029,Yaw Mensah,31.0,Kumasi,Sales,BSc,4,3808.89,80.2,2023-04-21
+1079,Kofi Appiah,37.0,Takoradi,HR,BSc,14,5339.33,49.3,2014-12-20
+1113,Kofi Osei,51.0,Accra,Marketing,MSc,24,8486.78,85.3,2018-01-21
+1050,Mary Agyeman,49.0,Takoradi,Engineering,BSc,20,7650.59,68.2,2023-07-11
+1110,Yaw Appiah,35.0,ACCRA  ,Finance,MSc,9,6346.71,92.5,2011-06-20
+1038,  JOHN ADDO ,27.0,,Marketing,BSc,2,3983.71,71.7,2021-05-15
+1049,Yaw Agyeman,,Cape Coast,Engineering,BSc,9,6593.84,69.2,2014-08-21
+1080,Grace Asante,36.0,Accra,Engineering,BSc,9,6101.28,71.5,2017-03-08
+1034,Peter Asante,31.0,TAMALE  ,HR,MSc,3,98000.0,,2017-11-08
+1044,Adwoa Agyeman,41.0,Kumasi,HR,BSc,18,6028.7,76.0,2020-03-30
+1008,Kwame Boateng,39.0,TAKORADI  ,Finance,MSc,13,7950.17,57.6,2018-03-10
+1063,Esi Boateng,42.0,Cape Coast,HR,MSc,14,6184.16,60.8,2013-02-04
+1100,Mary Boateng,32.0,Accra,HR,BSc,5,3886.52,84.5,2021-10-09
+1030,Fiifi Boateng,26.0,Accra,Engineering,BSc,0,5586.58,78.5,2010-04-16
+1070,John Darko,41.0,ACCRA  ,Marketing,BSc,16,6138.01,71.4,2020-03-10
+1103,Fiifi Addo,41.0,Tamale,Sales,BSc,13,5235.52,64.4,2014-10-08
+1052,Peter Owusu,26.0, kumasi,Engineering,BSc,1,4851.21,87.4,2014-04-11
+1002,Ama Osei,48.0,Kumasi,Sales,BSc,20,6395.94,73.3,2013-10-24
+1061,Akosua Owusu,30.0,Tamale,Finance,BSc,2,4764.34,54.7,2021-07-22
+1064,Efua Mensah,45.0,Tamale,Engineering,BSc,17,7989.21,67.4,2012-11-11
+1003,Daniel Osei,39.0,Takoradi,Marketing,BSc,11,4912.31,49.2,2014-09-02
+1067,ama agyeman,37.0,Tamale,Sales,BSc,15,5430.19,62.1,2020-10-29
+1023,Kojo Osei,40.0,Tamale,HR,BSc,17,6452.83,83.6,2020-03-17
+1091,Kofi Agyeman,46.0,Accra,Finance,BSc,22,120000.0,56.9,2013-07-27
+1082,Efua Agyeman,46.0,Accra, engineering,BSc,19,8008.43,69.8,2014-05-27
+1027,Efua Darko,24.0,Takoradi,Sales,BSc,2,3284.28,,2022-04-05
+1015,Fiifi Osei,41.0,Accra,Marketing,BSc,19,,56.5,2021-01-01
+1040,Peter Appiah,38.0,Cape Coast,HR,BSc,14,5563.05,71.4,2011-10-18
+1094,John Asante,46.0,Cape Coast,Sales,BSc,21,6473.36,67.6,2013-05-12
+1045,Fiifi Owusu,45.0,Takoradi,Sales,MSc,22,,90.8,2018-09-15
+1021,David Addo,47.0,Tamale,Engineering,BSc,24,8185.27,89.3,2012-03-01
+1097,  KOFI OFORI ,40.0,Takoradi,Sales,BSc,12,5120.79,65.5,2017-12-24
+1039,Akosua Asante,44.0,,Marketing,BSc,16,4899.42,88.0,2014-09-19
+1119,Kwesi Boateng,39.0,Cape Coast,Sales,,11,5133.25,69.5,2015-09-23
+1011,Kwame Osei,42.0, takoradi,Sales,PhD,20,7070.59,79.8,2016-10-21
+1042,  GRACE OFORI ,29.0,Kumasi,Sales,MSc,4,4397.06,92.7,2019-09-25
+1108,Fiifi Mensah,46.0,Takoradi,HR,BSc,20,5761.75,67.5,2016-09-20
+1075,Abena Addo,43.0,Kumasi,HR,MSc,19,6837.58,72.6,2014-04-03
+1020,Mary Boateng,28.0,Kumasi,Sales,BSc,5,4288.64,81.1,2014-09-27
+1022,Adwoa Agyeman,42.0,Cape Coast,HR,MSc,13,6389.43,71.4,2015-11-04
+1001,Sarah Darko,39.0,Kumasi,HR,MSc,17,6193.76,60.1,2022-06-30
+1073,Kwesi Addo,45.0,Tamale,Finance,MSc,20,8351.77,63.3,2014-09-14
+1057,Kojo Owusu,35.0,Cape Coast,Sales,BSc,6,4255.18,55.1,2019-04-14
+1004,Daniel Osei,28.0,TAMALE  ,HR,MSc,5,4858.51,69.8,2010-06-28
+1019,Linda Osei,46.0,Takoradi,HR,BSc,21,,70.6,2011-03-14
+1025,Mary Boateng,32.0,Cape Coast,Sales,BSc,4,,76.0,2022-06-10
+1107,Abena Agyeman,40.0,Tamale,Marketing,MSc,14,6090.23,71.7,2020-06-17

@@ -1,0 +1,99 @@
+{
+  "store": "Makola Gadgets",
+  "currency": "GHS",
+  "products": [
+    {
+      "sku": "P-100",
+      "name": "USB-C Cable",
+      "category": "Accessories",
+      "price": 45.0,
+      "stock": 120,
+      "ratings": [
+        4,
+        5,
+        5,
+        4
+      ]
+    },
+    {
+      "sku": "P-101",
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 150.0,
+      "stock": 35,
+      "ratings": [
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "sku": "P-102",
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "price": 320.0,
+      "stock": 0,
+      "ratings": []
+    },
+    {
+      "sku": "P-200",
+      "name": "Bluetooth Speaker",
+      "category": "Audio",
+      "price": 680.0,
+      "stock": 12,
+      "ratings": [
+        5,
+        5,
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "sku": "P-201",
+      "name": "Earbuds",
+      "category": "Audio",
+      "price": 450.0,
+      "stock": "unknown",
+      "ratings": [
+        4,
+        4
+      ]
+    },
+    {
+      "sku": "P-300",
+      "name": "Smartphone",
+      "category": "Phones",
+      "price": 3200.0,
+      "stock": 8,
+      "ratings": [
+        5,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "sku": "P-301",
+      "name": "Feature Phone",
+      "category": "Phones",
+      "price": "N/A",
+      "stock": 40,
+      "ratings": [
+        3
+      ]
+    },
+    {
+      "sku": "P-400",
+      "name": "Power Bank",
+      "category": "Power",
+      "price": 260.0,
+      "stock": 60,
+      "ratings": [
+        4,
+        3,
+        4
+      ]
+    }
+  ]
+}
